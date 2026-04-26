@@ -89,6 +89,14 @@ pip install -r requirements.txt
 - Deploy the model for real-time predictions
 
 ---
+## Results
+
+- Model used: (e.g., LSTM / Linear Regression)
+- Dataset: Historical stock price data
+
+- Note:
+  Model evaluation metrics (RMSE/MAE) are not included in the current version.
+  This project focuses on implementing the prediction pipeline.
 
 ## 💡 Key Highlights
 
